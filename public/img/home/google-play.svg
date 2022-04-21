@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="205" height="61" viewBox="0 0 205 61">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-1 {
+        opacity: 0.51;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-5 {
+        fill: url(#pattern);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_66" data-name="Rectangle 66" class="cls-1" width="205" height="61" transform="translate(1211 3186)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_28" data-name="Rectangle 28" class="cls-2" width="216" height="76" transform="translate(-0.286 0)"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1200 800">
+      <image width="1200" height="800" xlink:href="Mask%20Group%208-image.png"/>
+    </pattern>
+  </defs>
+  <g id="Mask_Group_8" data-name="Mask Group 8" class="cls-3" transform="translate(-1211 -3186)">
+    <g id="Mask_Group_3" data-name="Mask Group 3" class="cls-4" transform="translate(1205.286 3177)">
+      <rect id="pngfuel.com_1_" data-name="pngfuel.com (1)" class="cls-5" width="227" height="151" transform="translate(-5.286 0)"/>
+    </g>
+  </g>
+</svg>
